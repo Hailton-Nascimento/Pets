@@ -1,0 +1,36 @@
+{
+  "profile": [
+    {
+      "nome": "lucas",
+      "email": "asdas",
+      "id": 2
+    },
+    {
+      "nome": "RENATA CRISTINA BARBOSA",
+      "email": "nascimento.hailton@gmail.com",
+      "dataNascimento": "1982-05-16",
+      "cpf": "894.499.832-91",
+      "cep": "05577-100",
+      "id": 4
+    },
+    {
+      "nome": "jose",
+      "email": "jose@jose.com",
+      "id": 5
+    }
+  ],
+  "produtos": [
+    {
+      "nome": "terra",
+      "preco": "1,50",
+      "descricao": "hjçfkahsdjfhasjdfgçahsdh",
+      "id": 13
+    },
+    {
+      "nome": "leite",
+      "preco": "9,82",
+      "descricao": "Leite longa vida",
+      "id": 14
+    }
+  ]
+}
