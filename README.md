@@ -1,3 +1,7 @@
+Protifolio  criado no desenvovimento dos curos de javascritp, com foco em validação e formulario, jquery, simples-mask.
+
+
+
 abrir a pasta admin no vscode e 
 rodar o json server: 
 ```js
