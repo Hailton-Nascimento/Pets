@@ -10,4 +10,9 @@ npx json-server --watch db.json
 
 Rodar: browser-sync start --server --file . --host --port 5000 --startPath admin/telas/lista_cliente.html
 
+
+Pagina de Cadastro de protudos com todas as validações feitas  usando recursos HTML5 e  JavaScript.
+
+
+<h2> Casdastro de Produso</h2>
 <img src="/Cadastrar_Produto.png">
