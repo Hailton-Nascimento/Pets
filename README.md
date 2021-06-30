@@ -16,3 +16,14 @@ Pagina de Cadastro de protudos com todas as validações feitas  usando recursos
 
 <h2> Casdastro de Produso</h2>
 <img src="/Cadastrar_Produto.png">
+
+
+<h2> Lista de Produtos cadastrados</h2>
+<img src="/Lista_De_Produtos.png">
+
+<h2> Cadastro de Clientes/h2>
+  
+<img src="/Cadastro_de_Clientes.png">
+
+<h2> Lista de Clientes cadastrados</h2>
+<img src="/Lista_de_clientes.png">
